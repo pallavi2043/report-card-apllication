@@ -13,7 +13,7 @@ int main()
     float english,hindi,maths,social_science,science;
     char name[30];
     printf("\t***********************************\n\n");
-    printf("\t-------welcome------------\n\n");
+    printf("\t================welcome=============\n\n");
      
      printf("\t jawahar navodya vidyalaya\n");
      printf("\t\tannual report card\n");
