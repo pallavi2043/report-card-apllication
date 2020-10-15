@@ -14,6 +14,7 @@ int main()
     char name[30];
     printf("\t***********************************\n\n");
     printf("\t================welcome=============\n\n");
+    prinyf("\n");
      
      printf("\t jawahar navodya vidyalaya\n");
      printf("\t\tannual report card\n");
